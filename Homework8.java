@@ -4,6 +4,7 @@ public class Homework8 {
 	 * variables. A Homework8 object should have an array that
 	 * holds n int values
 	 */
+	 //Lorenzo
 	 private int[] x;
 	public Homework8(int n) {
 		x = new int[n];

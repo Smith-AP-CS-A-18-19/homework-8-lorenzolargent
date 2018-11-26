@@ -44,6 +44,9 @@ public class Homework8 {
 		double m;
 		double c;
 		m = arr[0];
+		/* This for loop does not check the last
+		 * element of the array
+		 */
 		for( int a = 1; a <arr.length-1; a++){
 			c = arr[a];
 			if(c>m){
